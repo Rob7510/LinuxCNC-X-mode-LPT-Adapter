@@ -1,0 +1,90 @@
+Stückliste exportiert aus /home/robert/Project_data/Projects/153 LinuxCNC adapters/153-01C Mode X LPT adapter.sch am 03/07/2024 21:08
+
+Part     Value     Device          Package         Description                           MF MPN          OC_FARNELL OC_NEWARK
+.                  LED3MM          LED3MM          LED                                                                       
+5V                 MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme                                             
+AC/DC-IN           MKDSN1,5/2-5,08 MKDSN1,5/2-5,08 MKDSN 1,5/ 2-5,08 Printklemme                                             
+C1                 C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C2                 C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C3                 C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C4                 C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C5                 C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C6                 C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C7       10uF      CPOL-EUE5-6     E5-6            POLARIZED CAPACITOR, European symbol                                      
+C9                 C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C10                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C11                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C12                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C13                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C14      100uF     CPOL-EUE3.5-8   E3,5-8          POLARIZED CAPACITOR, European symbol                                      
+C16                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C17                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C18                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C21      1 uF      CPOL-EUE2.5-6   E2,5-6          POLARIZED CAPACITOR, European symbol                                      
+C22                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C23                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C30                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C31                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C32                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C33                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C34                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C35                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C36                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C37                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C38                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C39                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C40                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C41                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C42                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+C43                C-EU025-024X044 C025-024X044    CAPACITOR, European symbol                                                
+D1                 1N4148DO35-10   DO35-10         DIODE                                                                     
+DBM                M25HP           M25HP           SUB-D                                                 unknown    unknown  
+DC/DC              VA-1205S        4SIL            DC DC Converter Single Output, 1 Watt                 unknown    unknown  
+IC2      MC1489DIP MC1489DIP       DIL14           MC1489 quad line receiver DIP14                                           
+IC3      MC1489DIP MC1489DIP       DIL14           MC1489 quad line receiver DIP14                                           
+IC4      ULN2803A  ULN2803A        DIL18           DRIVER ARRAY                                                              
+IC6      74HC240N  74HC240N        DIL20           Octal BUFFER and LINE DRIVER, 3-state                                     
+IN                 MPT10           10POL254        PHOENIX CONNECTOR                                     unknown    unknown  
+LPT                ML26            ML26            HARTING                                               unknown    unknown  
+NENA               MPT2            2POL254         PHOENIX CONNECTOR                                     unknown    unknown  
+OFF                LED3MM          LED3MM          LED                                                                       
+OK-SIG   PC814     PC814           DIL04           SHARP OPTO COUPLER                                    9707662    unknown  
+OK-SIG1  PC814     PC814           DIL04           SHARP OPTO COUPLER                                    9707662    unknown  
+OK10     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OK11     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OK12     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OK13     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OK14     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OK15     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OK16     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OK17     PC817     PC817           DIL04           SHARP OPTO COUPLER                       PC817X4J000F 9707727    97K7059  
+OKP2     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OKP3     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OKP4     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OKP5     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OKP6     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OKP7     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OKP8     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OKP9     6N137     6N137           DIL08           MOTOROLA OPTO COUPLER                    6N137        1328376    52M1895  
+OUT                MPT10           10POL254        PHOENIX CONNECTOR                                     unknown    unknown  
+P1                 LED3MM          LED3MM          LED                                                                       
+R/C1               R-EU_0309/10    0309/10         RESISTOR, European symbol                                                 
+R/C2               R-EU_0309/10    0309/10         RESISTOR, European symbol                                                 
+R1       82K       R-EU_0207/10    0207/10         RESISTOR, European symbol                                                 
+R2       820       R-EU_0207/10    0207/10         RESISTOR, European symbol                                                 
+R4       4k7       R-EU_0207/10    0207/10         RESISTOR, European symbol                                                 
+R7       560       R-EU_0207/10    0207/10         RESISTOR, European symbol                                                 
+R8       470       R-EU_0207/10    0207/10         RESISTOR, European symbol                                                 
+R21      680       R-EU_0207/10    0207/10         RESISTOR, European symbol                                                 
+R36      680       R-EU_0207/10    0207/10         RESISTOR, European symbol                                                 
+RN1      820       GE08R           SIL9            SIL RESISTOR                                          unknown    unknown  
+RN3      4K7       GE08R           SIL9            SIL RESISTOR                                          unknown    unknown  
+RN4      680       GE08R           SIL9            SIL RESISTOR                                          unknown    unknown  
+RN5      1K5       GE08R           SIL9            SIL RESISTOR                                          unknown    unknown  
+RN6      1K5       GE08R           SIL9            SIL RESISTOR                                          unknown    unknown  
+S-IN               ML10            ML10            HARTING                                               unknown    unknown  
+S-OUT              ML10            ML10            HARTING                                               unknown    unknown  
+T1       BC547     BC547           TO92            NPN TRANSISTOR                                                            
+T2       BC547     BC547           TO92            NPN TRANSISTOR                                                            
+VPC                LED3MM          LED3MM          LED                                                                       
+X2                 PN87520         PN87520         BERG USB connector                                    unknown    unknown  
