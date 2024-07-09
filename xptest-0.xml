@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Test panel for X-mode parallel port 0 -->
+<pyvcp>
+  <hbox>
+    <labelframe text="X-mode parallel port 0 test">
+      <font>("Helvetica",12)</font>
+      <hbox>
+        <labelframe text="Outputs">
+          <font>("Helvetica",12)</font>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn02"</halpin>
+              <text>"Pin 02 "</text>
+              <initval>0</initval>
+            </checkbutton>
+            <led>
+              <halpin>"led-02"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn03"</halpin>
+              <text>"Pin 03 "</text>
+            </checkbutton>
+            <led>
+              <halpin>"led-03"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn04"</halpin>
+              <text>"Pin 04 "</text>
+            </checkbutton>
+            <led>
+              <halpin>"led-04"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn05"</halpin>
+              <text>"Pin 05 "</text>
+            </checkbutton>
+            <led>
+              <halpin>"led-05"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn06"</halpin>
+              <text>"Pin 06 "</text>
+            </checkbutton>
+            <led>
+              <halpin>"led-06"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn07"</halpin>
+              <text>"Pin 07 "</text>
+            </checkbutton>
+            <led>
+              <halpin>"led-07"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn08"</halpin>
+              <text>"Pin 08 "</text>
+            </checkbutton>
+            <led>
+              <halpin>"led-08"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <checkbutton>
+              <halpin>"btn09"</halpin>
+              <text>"Pin 09 "</text>
+            </checkbutton>
+            <led>
+              <halpin>"led-09"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+        </labelframe>
+        <labelframe text="Inputs">
+          <font>("Helvetica",12)</font>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 01 "</text>
+            </label>
+            <led>
+              <halpin>"led-01"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 10 "</text>
+            </label>
+            <led>
+              <halpin>"led-10"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 11 "</text>
+            </label>
+            <led>
+              <halpin>"led-11"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 12 "</text>
+            </label>
+            <led>
+              <halpin>"led-12"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 13 "</text>
+            </label>
+            <led>
+              <halpin>"led-13"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 14 "</text>
+            </label>
+            <led>
+              <halpin>"led-14"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 15 "</text>
+            </label>
+            <led>
+              <halpin>"led-15"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 16 "</text>
+            </label>
+            <led>
+              <halpin>"led-16"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+          <hbox>
+            <relief>RIDGE</relief>
+            <bd>2</bd>
+            <label>
+              <text>"Pin 17 "</text>
+            </label>
+            <led>
+              <halpin>"led-17"</halpin>
+              <size>30</size>
+              <on_color>"yellow"</on_color>
+              <off_color>"brown"</off_color>
+            </led>
+          </hbox>
+        </labelframe>
+      </hbox>
+    </labelframe>
+  </hbox>
+</pyvcp>
