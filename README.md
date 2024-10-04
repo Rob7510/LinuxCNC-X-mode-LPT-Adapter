@@ -18,7 +18,7 @@ The signal breakout for an X-mode adapter can be home built with a low cost dual
 **Pin 1** requires one or two series resistors (for DC) or capacitors (for AC) so that the current through the bipolar optocoupler (PC814) is in the range of 4 - 10 mA:
 * For standard 5V signals use a 680 Ohm resistor. For voltages over 100V use two components in series.
 * For DC voltages make sure the power dissipation in the resistor(s) does not exceed their rating.
-* For 230V mains voltage use 2 x 150nF (400V). To keep high voltages away from the board, mount the capacitors or resistors at the source, and fill the two onboard slots with jumpers.
+* For 230V mains voltage use 2 x 150nF (400V) in series. To keep high voltages away from the board, mount the capacitors or resistors at the source, and fill the two onboard slots with jumpers.
 * The P1 LED lights up when it detects a valid signal.
 
 **Pins 10 - 17** are set to about 0V (False) for an input between -30 and + 0.5 V, and to 5V (True) for an input between 1.5 an 30V. These inputs suppress high frequency (>5KHz) pulses. The 10 pin ribbon connector connects Pin 10 - 17, as well as GND and 5V to a remote input panel.

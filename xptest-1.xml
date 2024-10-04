@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!-- Test panel for X-mode parallel port 0 -->
+<!-- Test panel for X-mode parallel port I/O -->
 <pyvcp>
   <hbox>
-    <labelframe text="X-mode parallel port 0 test">
+    <labelframe text="X-mode parallel port 1 test">
       <font>("Helvetica",12)</font>
       <hbox>
         <labelframe text="Outputs">
